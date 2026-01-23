@@ -1,3 +1,7 @@
+from bookshelf.models import Book  # Import the Book model
+
+
+
 \# Delete the book instance
 
 book = Book.objects.get(title="Nineteen Eighty-Four")
