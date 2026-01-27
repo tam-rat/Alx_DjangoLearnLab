@@ -7,6 +7,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'bookshelf',
+'relationship_app',
 ]
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
