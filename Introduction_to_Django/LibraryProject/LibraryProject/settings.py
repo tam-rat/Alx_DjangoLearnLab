@@ -43,3 +43,7 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',        # Database file path
     }
 }
+INSTALLED_APPS = [
+    ...
+    'relationship_app',
+]
